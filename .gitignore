@@ -1,0 +1,12 @@
+*.txt
+*.xlsx
+*.pickle
+*.pkl
+*.pdf
+*.docx
+*.pptx
+*.PNG
+*.jpg
+*.ipynb_checkpoints
+*.do
+*.zip
